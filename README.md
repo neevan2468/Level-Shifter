@@ -54,6 +54,7 @@ the dynamic power dissipation.
 
 ### Proposed 28nm based Design
 This design is implemented using 28nm technology node. As per the reference circuit, the VDDH is 1.8V and VDDL is 0.6V.
+
 ![Screenshot_209](https://user-images.githubusercontent.com/85724019/156206647-a280bab6-af85-411a-9419-6afd5b232249.png)
 
 
